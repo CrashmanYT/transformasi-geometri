@@ -1,0 +1,11 @@
+footer {
+    background-color: rgb(39, 48, 54);
+}
+
+footer>h5 {
+    color: white;
+}
+
+.wave {
+    margin-bottom: -10px;
+}
